@@ -1,0 +1,33 @@
+Keyword:
+=> int, float, char, int, int, float, int, char, char, 
+
+Relational Operator:
+=> <, >, -, 
+
+Arithmetic Operator:
+=> ++, --, *, 
+
+Assignment Operator:
+=> =, =, =, =, =, =, 
+
+Logical Operator:
+=> 
+
+Valid Integers:
+=> 7, 5, 100, 
+
+Valid Floating Num:
+=> 5.500000, 
+
+Valid Identifiers:
+=> include, stdio, h, a, c, b, __00, d, a, d, p, _s, arr, a, b, 
+
+Function Names:
+=> main( ), if(a<b || d>0), printf("%d %d",a,d), myfunc(float *p), 
+
+Other Symbols:
+=> {, ;, ;, ;, ;, {, ;, ;, ;, }, }, {, [, ], ;, ;, [, ,, ], ;, }, 
+
+Strings:
+=> "-4", "afdfdf", 
+

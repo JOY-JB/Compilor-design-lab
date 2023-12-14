@@ -1,0 +1,19 @@
+
+int x = a && b
+
+if (x > 0) {
+    result = x + 10;
+} else {
+    x += 5.23 || c;
+}
+
+int main() {
+    return 0;
+}
+
+myFunc() {
+    return 42;
+}
+
+"EDU" "CSE"
+

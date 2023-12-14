@@ -1,0 +1,9 @@
+//project extra testing code 
+ari_op "+"|"-"|"*"|"/"|"%"|"++"|"--"
+ari_op "++"|"--"|[\+\-\*/\%]
+//on line 23
+
+
+( float|int|char|void )[ \t]+
+type "float"|"int"|"char"|"void"
+
