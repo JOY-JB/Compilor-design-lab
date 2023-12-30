@@ -14,20 +14,20 @@ Logical Operator:
 => ||, 
 
 Valid Integers:
-=> -4, 7, 5, 0, 100, 
+=> 7, 5, 0, 100, 
 
 Valid Floating Num:
 => 5.500000, -10.000000, 
 
 Valid Identifiers:
-=> include, stdio, h, a, c, b, __00, d, a, b, d, a, d, p, _s, arr, a, b, f, 
+=> include, stdio, h, a, c, b, __00, d, a, b, d, a, d, p, _s, arr, f, 
 
 Function Names:
 => main( ), printf("%d %d",a,d), myfunc(float *p), 
 
 Other Symbols:
-=> {, ;, ,, ;, ;, ;, (, ), {, ;, ;, ;, }, }, {, [, ], ;, ;, [, ,, ], ;, }, 
+=> {, ;, ,, ;, ;, ;, (, ), {, ;, ;, ;, }, }, {, [, ], ;, ;, [, ], ;, }, 
 
 Strings:
-=> "-4"], "afd;, 
+=> "-4";, '-4', "afdfdf", 'a','b', 
 

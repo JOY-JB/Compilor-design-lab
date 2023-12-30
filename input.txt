@@ -1,10 +1,11 @@
 #include<stdio.h>
 int main( ){
 float a = 5.5;
-char c = "-4";
+char c = "-4",'-4';
+
 int b = __00;
 int d = 7 - 5;
-if(a<b || d>0){
+if (a<b || d>0){
 a++;
 d--;
 printf("%d %d",a,d);
@@ -15,3 +16,5 @@ int *p[100];
 char _s = "afdfdf";
 char arr = ['a','b'];
 }
+
+float f= -10.000
